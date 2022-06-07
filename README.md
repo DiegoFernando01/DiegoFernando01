@@ -7,7 +7,7 @@
 
 - 🔭 **I am currently looking for a job**
 
-- 🌱 I’m currently learning **AWS,Ruby and Rails, Frontend, BD**
+- 🌱 I’m currently learning **AWS, Ruby and Rails, Frontend, BD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiegoFernando01?tab=repositories](https://github.com/DiegoFernando01?tab=repositories)
 
