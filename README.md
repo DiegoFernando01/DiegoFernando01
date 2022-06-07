@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **diegofvictoria2013@gmail.com**
 
-- ⚡ Fun fact: I like to learn new things, surround myself with people who contribute to my professional development, I invest my free time in learning courses that I can join and allow me to gain experience for my working life, and likewise I dedicate myself to my studies where I always I want to deepen what I have learned.
+- ⚡ Fun fact: I like to learn new things, surround myself with people who contribute to my professional development, I invest my free time in learning courses that I can join and allow me to gain experience for my working life, and likewise I dedicate myself to my studies where I always want to deepen what I have learned.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
