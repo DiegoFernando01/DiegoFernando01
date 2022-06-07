@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegofernando01&show_icons=true&locale=en" alt="diegofernando01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofernando01&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="diegofernando01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofernando01&theme=nightowl&date_format=j%20M%5B%20Y%5D" alt="diegofernando01" /></p>
