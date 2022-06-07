@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegofernando01&label=Profile%20views&color=0e75b6&style=flat" alt="diegofernando01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegofernando01" alt="diegofernando01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegofernando01-ma&theme=discord" alt="diegofernando01" /></a> </p>
 
 - 🔭 **I am currently looking for a job**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **diegofvictoria2013@gmail.com**
 
-- ⚡ Fun fact **I like to learn new things, surround myself with people who contribute to my professional development, I invest my free time in learning courses that I can join and allow me to gain experience for my working life, and likewise I dedicate myself to my studies where I always I want to deepen what I have learned.**
+- ⚡ Fun fact I like to learn new things, surround myself with people who contribute to my professional development, I invest my free time in learning courses that I can join and allow me to gain experience for my working life, and likewise I dedicate myself to my studies where I always I want to deepen what I have learned.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
