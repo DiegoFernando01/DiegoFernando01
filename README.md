@@ -68,7 +68,8 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; align-items: center; margin: 0 auto; width: 100%;">
-  <img height="180em" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofernando01&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="diegofernando01" />
-  <img height="180em" style="flex: 1;" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofernando01&theme=transparent&date_format=j%20M%5B%20Y%5D&&hide_border=true" alt="diegofernando01" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofernando01&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="diegofernando01" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofernando01&theme=transparent&date_format=j%20M%5B%20Y%5D&&hide_border=true" alt="diegofernando01" />
+</p>
