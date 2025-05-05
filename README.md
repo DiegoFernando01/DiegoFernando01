@@ -5,7 +5,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=diegofernando01&theme=algolia&title=-Reviews,-Issues&no-bg=true&no-frame=true&column=-1&margin-w=15"
-      alt="diegofernando01"
+      alt="github-profile-trophy"
       width="100%"
     />
   </a>
@@ -23,8 +23,8 @@
 ## 📫 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/diegofernandovictoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegofernandovictoria" height="30" width="40" /></a>
-<a href="https://discord.gg/diegofernando1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diegofernando1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diegofernandovictoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://discord.gg/diegofernando1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 <a href="mailto:diegofvictoria2013@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
@@ -69,7 +69,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofernando01&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="diegofernando01" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofernando01&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Most Used Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofernando01&theme=transparent&date_format=j%20M%5B%20Y%5D&&hide_border=true" alt="diegofernando01" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofernando01&theme=transparent&date_format=j%20M%5B%20Y%5D&&hide_border=true" alt="github readme streak stats" />
 </p>
